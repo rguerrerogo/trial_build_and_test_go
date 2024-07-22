@@ -1,0 +1,2 @@
+# trial_build_and_test_go
+trial_build_and_test_go
